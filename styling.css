@@ -1,0 +1,20 @@
+#countdown{
+
+  background: #F8F8FF;
+  width: 310px;
+  padding: 15px;
+  margin-left: 200px;
+  margin-top: 50px;
+}
+
+h3{
+color: #8B4513;
+}
+span{
+background: #00FF7F;
+padding: 5px;
+}
+
+#footer{
+	margin-left: 200px;
+}
