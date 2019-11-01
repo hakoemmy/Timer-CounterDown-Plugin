@@ -1,3 +1,3 @@
 # Timer-CounterDown-lugin
-JQurey Plugin
- just simple to use it.
+This JQurey Plugin
+ can be used in any web app.
